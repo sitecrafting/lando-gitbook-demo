@@ -1,0 +1,15 @@
+{
+    "name": "sitecrafting/lando-gitbook-demo",
+    "description": "Demo project for Lando/GitBook integration",
+    "require-dev": {
+        "victorjonsson/markdowndocs": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Coby Tamayo",
+            "email": "ctamayo@sitecrafting.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

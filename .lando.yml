@@ -1,0 +1,4 @@
+name: lando-git-book-demo
+recipe: lamp
+config:
+  webroot: www

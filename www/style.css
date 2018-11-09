@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: hotpink;
+  font-family: sans-serif;
+  color: cyan;
+}
+
+.bubblegum-wrapper {
+  width: 50em;
+  max-width: 95%;
+  padding: 1em;
+  margin: 0 auto;
+}
+
+header {
+  text-align: center;
+}
+
+a, a:visited {
+  font-weight: bold;
+  color: #fdd;
+}
